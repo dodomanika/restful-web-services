@@ -1,0 +1,12 @@
+<application>
+  <component name="JavaFxSettings">
+    <option name="pathToSceneBuilder" value="C:/Program Files/SceneBuilder/SceneBuilder.exe" />
+    <option name="myPathToSceneBuilder" value="C:/Program Files/SceneBuilder/SceneBuilder.exe" />
+  </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_LOCAL_CREATE_FINALS" value="false" />
+  </component>
+</application>
